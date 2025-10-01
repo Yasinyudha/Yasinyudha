@@ -12,6 +12,7 @@
   - **Machine Learning: MLOps**
   - **AI Frameworks: PyTorch | TensorFlow**
   - **Web Library and Frameworks: Angular | React | FastAPI**
+  - **Scientific Computing: Interferogram SAR methodology**
 
 <h3>My Working Environment</h3>
 <p>
