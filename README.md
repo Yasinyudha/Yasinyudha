@@ -33,7 +33,7 @@
 
 Want to learn more about me? Let’s connect!
 
-Reach me at yasinyudha20@gmail.com or check out my full background in [My Resume](https://drive.google.com/file/d/1AeJ7v3NNGTTOf9Xcc3SKilC11trgmhNg/view?usp=sharing)
+Reach me at yasinyudha20@gmail.com or check out my full background in [My Resume](https://drive.google.com/file/d/1hsrA_AVvdhUhk5OyWo4LXRWMCqCcR_OZ/view?usp=drive_link)
 
 ---
 
