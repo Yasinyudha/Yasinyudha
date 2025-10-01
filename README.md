@@ -7,8 +7,9 @@
 - 🔭 I'm currently working as AI and ML Engineer at Pusat Pembinaan Pelatihan dan Sertifikasi Mandiri
 - 🧠 I’m specialist in
 
-  - **AI: Large Language Model | LoRA/QLoRA | RAG | LangChain | Model deployment**
-  - **Deep Learning: CNN | ANN**
+  - **AI: Large Language Model | LoRA/QLoRA | RAG | LangChain | Streamlit | Hugging Face Hub | Transformers**
+  - **Vector Database: FAISS | ChromaDB**
+  - **Deep Learning: Computer Vision | CNN | ANN**
   - **Machine Learning: MLOps**
   - **AI Frameworks: PyTorch | TensorFlow**
   - **Web Library and Frameworks: Angular | React | FastAPI**
@@ -24,6 +25,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
@@ -35,17 +37,24 @@ Reach me at yasinyudha20@gmail.com or check out my full background in [My Resume
 
 ---
 
-<!--
-**Yasinyudha/Yasinyudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>My Projects</h3>
 
-Here are some ideas to get you started:
+| Project Name | Description | Tools Used |
+|--------------|-------------|------------|
+| Strong Signal Market Prediction | Predict a strong signal in market using finance-approach LSTM model | Numpy, matplotlib, Pandas, seaborn, Flask, TensorFlow |
+| Customs Documents Extraction | Summarize and extract the customs document extraction with Qwen Vision multimodal LLM | multimodal LLM, LangChain, Pydantic, Hugging Face, LoRA, QLoRA, Flask |
+| [Prompt Enhancer App](https://github.com/Yasinyudha/json-enhancer-app.git) | This application enhance the prompt to more structured prompt, hence the final response will be in structured, and good quality | Groq, React, LLM, Typescript, Netlify |
+| News to PDF Summarizer | Extract the main content from a news website, summarize it with AI, enrich it with additional context, and save it as a PDF file | Groq, React, LLM, Typescript, Netlify |
+| Custom GPT Model | Custom GPT Model with approximately 6 million parameters and estimated 6 days of training. The model features a vocabulary size of 56, embedding dimension of 256, block size of 128, and 8 transformer layers | PyTorch, NumPy |
+| Colon Cancer Prediction | With ResNet-50 architecture, I have trained colon cancer prediction and achieved accuracy of 97% | PyTorch, CNN, NumPy, Matplotlib |
+| (Smart Farming) Fertile Level Research | Comprehensive study to analyze the correlation between NPK fertilizer levels, temperature variations, moisture content, and PH conditions in soil | Scikit-learn, Pandas, NumPy, matplotlib |
+| Weather Webapps | Developed a web application that integrates real-time weather data. This webapps involved API calls to a weather database | Angular, Javascript, HTML, CSS |
+| Company Profile Vreius | Developed a basic company profile website | HTML, CSS, Javascript |
+| FeCl₃ and NaCl Solution Detection Program | FeCl3 and NaCl solution images detection using machine learning. This prediction used FeCl3 and NaCl unique characteristics based on fluoroscence if mixed with quantum dots | Computer Vision, CNN, TensorFlow |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3>Certification</h3>
+
+- [Data Science Certificate](https://drive.google.com/file/d/1wnoYA4Bgt4rfsFal45OER3A-cAdTHVmH/view?usp=sharing). Issued by Badan Nasional Sertifikasi Profesi (BNSP)
+- [Java Foundatons](https://drive.google.com/file/d/1wnoYA4Bgt4rfsFal45OER3A-cAdTHVmH/view?usp=sharing). Issued by Oracle Academy
