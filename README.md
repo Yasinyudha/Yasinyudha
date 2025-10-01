@@ -2,6 +2,15 @@
 
 <h3 align="center"><b>AI and ML Engineer | LLM Specialist</b></h3>
 
+<h3>Personal Information and Interest</h3>
+
+- 🔭 I'm currently working as AI and ML Engineer at Pusat Pembinaan Pelatihan dan Sertifikasi Mandiri
+- 🧠 I’m specialist in
+
+  - **AI: Large Language Model | LoRA/QLoRA | RAG | LangChain | Model deployment**
+  - **Deep Learning: CNN | ANN**
+  - **Machine Learning: MLOps**
+
 <h3>My Working Environment</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -15,15 +24,6 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
-
-<h3>Personal Information and Interest</h3>
-
-- 🔭 I'm currently working as AI and ML Engineer at Pusat Pembinaan Pelatihan dan Sertifikasi Mandiri
-- 🧠 I’m specialist in
-
-  - **AI: Large Language Model | LoRA/QLoRA | RAG | LangChain | Model deployment**
-  - **Deep Learning: CNN | ANN**
-  - **Machine Learning: MLOps**
 
 Want to learn more about me? Let’s connect!
 
