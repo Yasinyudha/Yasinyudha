@@ -58,3 +58,6 @@ Reach me at yasinyudha20@gmail.com or check out my full background in [My Resume
 
 - [Data Science Certificate](https://drive.google.com/file/d/1wnoYA4Bgt4rfsFal45OER3A-cAdTHVmH/view?usp=sharing). Issued by Badan Nasional Sertifikasi Profesi (BNSP)
 - [Java Foundatons](https://drive.google.com/file/d/1wnoYA4Bgt4rfsFal45OER3A-cAdTHVmH/view?usp=sharing). Issued by Oracle Academy
+- [Detection Program for FeCl3 and NaCl Solutions Using Machine Learning HAKI Certificate](https://drive.google.com/file/d/1wnoYA4Bgt4rfsFal45OER3A-cAdTHVmH/view?usp=sharing). Issued by Oracle Academy
+- [Java Foundatons](https://drive.google.com/file/d/1wnoYA4Bgt4rfsFal45OER3A-cAdTHVmH/view?usp=sharing). Issued by Direktorat Jenderal Kekayaan Intelektual (DJKI)
+- [Research and Development of Smart System for Fertile Level Research](https://drive.google.com/file/d/1wnoYA4Bgt4rfsFal45OER3A-cAdTHVmH/view?usp=sharing). Issued by Direktorat Jenderal Kekayaan Intelektual (DJKI)
