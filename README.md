@@ -10,6 +10,8 @@
   - **AI: Large Language Model | LoRA/QLoRA | RAG | LangChain | Model deployment**
   - **Deep Learning: CNN | ANN**
   - **Machine Learning: MLOps**
+  - **AI Frameworks: PyTorch | TensorFlow**
+  - **Web Library and Frameworks: Angular | React | FastAPI**
 
 <h3>My Working Environment</h3>
 <p>
@@ -19,6 +21,7 @@
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
@@ -28,6 +31,8 @@
 Want to learn more about me? Let’s connect!
 
 Reach me at yasinyudha20@gmail.com or check out my full background in [My Resume](https://drive.google.com/file/d/1AeJ7v3NNGTTOf9Xcc3SKilC11trgmhNg/view?usp=sharing)
+
+---
 
 <!--
 **Yasinyudha/Yasinyudha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
