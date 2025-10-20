@@ -41,6 +41,7 @@ Reach me at yasinyudha20@gmail.com or check out my full background in [My Resume
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
+| [GAN for Image MNIST-Type Synthesis](https://github.com/Yasinyudha/mnistGAN.git) | Create a Synthesis MNIST-Style Images from Generative Adversarial Network | PyTorch, Numpy, matplotlib |
 | Strong Signal Market Prediction | Predict a strong signal in market using finance-approach LSTM model | Numpy, matplotlib, Pandas, seaborn, Flask, TensorFlow |
 | Customs Documents Extraction | Summarize and extract the customs document extraction with Qwen Vision multimodal LLM | multimodal LLM, LangChain, Pydantic, Hugging Face, LoRA, QLoRA, Flask |
 | [Prompt Enhancer App](https://github.com/Yasinyudha/json-enhancer-app.git) | This application enhance the prompt to more structured prompt, hence the final response will be in structured, and good quality | Groq, React, LLM, Typescript, Netlify |
