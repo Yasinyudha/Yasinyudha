@@ -7,7 +7,7 @@
 - 🔭 I'm currently working as AI and ML Engineer at Pusat Pembinaan Pelatihan dan Sertifikasi Mandiri
 - 🧠 I’m specialist in
 
-  - **AI: Large Language Model | LoRA/QLoRA | RAG | LangChain | Streamlit | Hugging Face Hub | Transformers**
+  - **AI: Large Language Model | LoRA/QLoRA | RAG | GAN | LangChain | Streamlit | Hugging Face Hub | Transformers**
   - **Vector Database: FAISS | ChromaDB**
   - **Deep Learning: Computer Vision | CNN | ANN**
   - **Machine Learning: MLOps**
