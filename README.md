@@ -1,19 +1,20 @@
 <h1 align="center"><b>Hi there 👋, I'm Yasin Yudha Praditha</b></h1>
 
-<h3 align="center"><b>AI and ML Engineer | LLM Specialist</b></h3>
+<h3 align="center"><b>AI and ML Engineer | Fullstack Developer</b></h3>
 
 <h3>Personal Information and Interest</h3>
 
 - 🔭 I'm currently working as AI and ML Engineer at Pusat Pembinaan Pelatihan dan Sertifikasi Mandiri
 - 🧠 I’m specialist in
 
-  - **AI: Large Language Model | LoRA/QLoRA | RAG | GAN | LangChain | Streamlit | Hugging Face Hub | Transformers**
+  - **AI: LLM | LoRA/QLoRA | RAG | GAN | LangChain | Streamlit | Hugging Face Hub | Transformers**
   - **Vector Database: FAISS | ChromaDB**
-  - **Deep Learning: Computer Vision | CNN | ANN**
-  - **Machine Learning: MLOps**
   - **AI Frameworks: PyTorch | TensorFlow**
-  - **Web Library and Frameworks: Angular | React | FastAPI**
-  - **Scientific Computing: Interferogram SAR methodology**
+  - **Backend Tools/Framework: Golang | FastAPI | Flask | Java SpringBoot | PyQt6**
+  - **Frontend Framework: React | Angular**
+  - **Database: MySQL | PostgreSQL**
+  - **Object Storage: Supabase**
+  - **Version Control: GitHub/GitLab**
 
 <h3>My Working Environment</h3>
 <p>
@@ -31,16 +32,16 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
-Want to learn more about me? Let’s connect!
-
-Reach me at yasinyudha20@gmail.com or check out my full background in [My Resume](https://drive.google.com/file/d/1hsrA_AVvdhUhk5OyWo4LXRWMCqCcR_OZ/view?usp=drive_link)
+Want to learn more about me? Let’s connect! Reach me at yasinyudha20@gmail.com
 
 ---
 
 <h3>My Projects</h3>
 
-| Project Name | Description | Tools Used |
+| Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
+| [Java Market](https://github.com/Yasinyudha/Java-Market) | A marketplace webapp targeting for low-cost marketplace app so user could not feel overwhelmed with high percentage payments that user have to pay | React, Golang, MySQL
+| [AI Visual Builder](https://github.com/Yasinyudha/AI-Visual-Builder) | An open-source tool simplifies the development of Machine Learning, Deep Learning, and general AI applications | React, Python FastAPI
 | [GAN for Image MNIST-Type Synthesis](https://github.com/Yasinyudha/mnistGAN.git) | Create a Synthesis MNIST-Style Images from Generative Adversarial Network | PyTorch, Numpy, matplotlib |
 | Strong Signal Market Prediction | Predict a strong signal in market using finance-approach LSTM model | Numpy, matplotlib, Pandas, seaborn, Flask, TensorFlow |
 | Customs Documents Extraction | Summarize and extract the customs document extraction with Qwen Vision multimodal LLM | multimodal LLM, LangChain, Pydantic, Hugging Face, LoRA, QLoRA, Flask |
