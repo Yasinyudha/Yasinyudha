@@ -1,18 +1,17 @@
-<h1 align="center"><b>Hi there 👋, I'm Yasin Yudha Praditha</b></h1>
+<h1 align="center"><b>Hi, I'm Yasin Yudha Praditha</b></h1>
 
 <h3 align="center"><b>AI and ML Engineer | Fullstack Developer</b></h3>
 
 <h3>Personal Information and Interest</h3>
 
-- 🔭 I'm currently working as AI and ML Engineer at Pusat Pembinaan Pelatihan dan Sertifikasi Mandiri
-- 🧠 I’m specialist in
+- I'm currently working as AI and ML Engineer at Pusat Pembinaan Pelatihan dan Sertifikasi Mandiri
+- I’m specialist in
 
-  - **AI: LLM | LoRA/QLoRA | RAG | GAN | LangChain | Streamlit | Hugging Face Hub | Transformers**
-  - **Vector Database: FAISS | ChromaDB**
+  - **AI: LLM | LoRA/QLoRA | RAG | LangChain**
   - **AI Frameworks: PyTorch | TensorFlow**
   - **Backend Tools/Framework: Golang | FastAPI | Flask | Java SpringBoot | PyQt6**
   - **Frontend Framework: React | Angular**
-  - **Database: MySQL | PostgreSQL**
+  - **Database: MySQL | PostgreSQL | Redis**
   - **Object Storage: Supabase**
   - **Version Control: GitHub/GitLab**
 
@@ -28,8 +27,6 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 Want to learn more about me? Let’s connect! Reach me at yasinyudha20@gmail.com
@@ -41,18 +38,7 @@ Want to learn more about me? Let’s connect! Reach me at yasinyudha20@gmail.com
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
 | [Java Market](https://github.com/Yasinyudha/Java-Market) | A marketplace webapp targeting for low-cost marketplace app so user could not feel overwhelmed with high percentage payments that user have to pay | React, Golang, MySQL
-| [AI Visual Builder](https://github.com/Yasinyudha/AI-Visual-Builder) | An open-source tool simplifies the development of Machine Learning, Deep Learning, and general AI applications | React, Python FastAPI
-| [GAN for Image MNIST-Type Synthesis](https://github.com/Yasinyudha/mnistGAN.git) | Create a Synthesis MNIST-Style Images from Generative Adversarial Network | PyTorch, Numpy, matplotlib |
-| Strong Signal Market Prediction | Predict a strong signal in market using finance-approach LSTM model | Numpy, matplotlib, Pandas, seaborn, Flask, TensorFlow |
-| Customs Documents Extraction | Summarize and extract the customs document extraction with Qwen Vision multimodal LLM | multimodal LLM, LangChain, Pydantic, Hugging Face, LoRA, QLoRA, Flask |
-| [Prompt Enhancer App](https://github.com/Yasinyudha/json-enhancer-app.git) | This application enhance the prompt to more structured prompt, hence the final response will be in structured, and good quality | Groq, React, LLM, Typescript, Netlify |
-| News to PDF Summarizer | Extract the main content from a news website, summarize it with AI, enrich it with additional context, and save it as a PDF file | Groq, React, LLM, Typescript, Netlify |
-| Custom GPT Model | Custom GPT Model with approximately 6 million parameters and estimated 6 days of training. The model features a vocabulary size of 56, embedding dimension of 256, block size of 128, and 8 transformer layers | PyTorch, NumPy, Hugging Face |
-| Colon Cancer Prediction | With ResNet-50 architecture, I have trained colon cancer prediction and achieved accuracy of 97% | PyTorch, CNN, NumPy, Matplotlib |
-| (Smart Farming) Fertile Level Research | Comprehensive study to analyze the correlation between NPK fertilizer levels, temperature variations, moisture content, and PH conditions in soil | Scikit-learn, Pandas, NumPy, matplotlib |
-| Weather Webapps | Developed a web application that integrates real-time weather data. This webapps involved API calls to a weather database | Angular, Javascript, HTML, CSS |
-| Company Profile Vreius | Developed a basic company profile website | HTML, CSS, Javascript |
-| FeCl₃ and NaCl Solution Detection Program | FeCl3 and NaCl solution images detection using machine learning. This prediction used FeCl3 and NaCl unique characteristics based on fluoroscence if mixed with quantum dots | Computer Vision, CNN, TensorFlow |
+| [AI Visual Builder](https://github.com/Yasinyudha/AI-Visual-Builder) | An open-source tool simplifies the development of Machine Learning, Deep Learning, and general AI applications | React, Python FastAPI, Supabase, MySQL
 
 ---
 
